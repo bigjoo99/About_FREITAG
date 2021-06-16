@@ -1,0 +1,82 @@
+*{
+  color: black;
+  background-color: black;
+}
+
+.header{
+  font-size: 200px;
+  height: 714px;
+  text-align: center;
+}
+
+.forest{
+  display: flex;
+  width:1280px;
+  height: 302px;
+  margin:auto;
+}
+
+.forest> li {
+  margin-top:49px;
+  height:302px;
+  text-align: center;
+}
+
+.tree{
+  width:400px;
+  height: 250px;
+  color:white;
+  font-size: 55px;
+  font-weight: bold;
+  line-height: 30px;
+  margin:25px auto;
+}
+
+.tree1{
+  width:400px;
+  height: 250px;
+  color:white;
+  font-size: 26px;
+  line-height: 30px;
+  margin:25px auto;
+}
+#home{
+  position: fixed;
+  left:0px;
+  top: 0px;
+  
+}
+#home a {
+  background-color: black;
+}
+.contents{
+  color: white;
+  font-size: 30px;
+  text-align: center;
+  font-weight: bold;
+}
+
+div p{
+  display: inline-block;
+  background-color: white;
+  color: black;
+}
+
+div a{
+  display: inline-block;
+  background-color: white;
+  color: black;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+p{
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+p a{
+  color: white;
+  font-size: 20px;
+}
